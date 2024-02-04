@@ -24,5 +24,5 @@ devhanda | BackEnd Developer
  
 #### 💌 Follow Me
 
-<a href="mailto:estherlee710e@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:estherlee710e@gmail.com"/></a>
+<a href="mailto:estherlee710e@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:estherlee710e@gmail.com"/></a>
  
