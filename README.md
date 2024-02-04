@@ -23,6 +23,5 @@ devhanda | BackEnd Developer
  
 #### 💌 Follow Me
 
-<a href="https://devhanda.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white&link=https://devhanda.tistory.com/"/></a>
 <a href="mailto:devhanda.kl@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:devhanda.kl@gmail.com"/></a>
  
