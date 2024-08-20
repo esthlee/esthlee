@@ -1,6 +1,6 @@
 <div align="center"> 
  
-#### 👋 Welcome my github profile
+#### Welcome my github profile
 Esther Lee | BackEnd Engineer
 
  <br/>
