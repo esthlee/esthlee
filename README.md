@@ -1,7 +1,7 @@
 <div align="center"> 
  
 #### Welcome my github profile
-Esther Lee | BackEnd Engineer
+Esther Lee | Backend Engineer
 
  <br/>
   
